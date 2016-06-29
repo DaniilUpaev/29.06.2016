@@ -1,0 +1,176 @@
+html {
+
+}
+
+.body {
+	display: block;
+	max-width: 1300px;
+    background: url(mountains_blog.jpg) no-repeat;
+    background-size: 100%;
+    overflow: hidden;  
+    font-family: Roboto-Light;
+    font-size: 14px;
+}
+
+.card {
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	display: block;
+	width: 286.5px;
+	height: 296px;
+	background: #ffffff;
+	opacity: 0.8;
+	border-radius: 2%;
+}
+
+.upper_menu {
+
+}
+
+.avatar {
+	width: 106px;
+	height: 106px;
+	border-radius: 50%;
+	overflow: hidden;
+	position: relative;
+	margin: auto;
+	top: 35px;
+}
+
+.photo {
+   width: 106px;
+   height: 106px;
+}
+
+.name_and_info {
+
+}
+
+.name {
+	font-size: 25px;
+	text-align: center;
+	position: relative;
+	top: 18px;
+	font-family: Roboto-Regular;
+	color: #455a64;
+}
+
+.info {
+	font-size: 13px;
+	text-align: center;
+	position: relative;
+	color: #818c92;
+
+}
+
+.social_networks {
+    text-align: center;
+    position: relative;
+    top: 5px;
+
+}
+
+.social_networks ul li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px; 
+}
+
+.git {
+	position: relative;
+	top: 1px;
+}
+
+.vk {
+	position: relative;
+}
+
+svg {
+	fill: #70d1c6;
+}
+
+.social_networks li:hover svg * {
+	fill: #18c3ac;
+}
+
+/*_______________________*/
+
+.lower_menu {
+	width: 395px;
+	position: relative;
+	font-family: Roboto-Regular;
+}
+
+.links {
+  
+}
+
+.links_lower li {
+	display: inline-block;
+	background: #0ab09d;
+	padding: 10px 19.5px;
+	float: left;
+	position: relative;
+	left: -40px;
+	top: 8px
+}
+
+.links_lower li {
+	text-decoration: none;
+	color: #fdfefe;
+}
+
+.links_lower li:hover {
+	background: #048981;
+}
+
+.works {
+    border-radius: 0 0 0 5px;
+    border-right: 2px solid #73c8c0;
+}
+
+.about_me {
+    border-right: 2px solid #73c8c0;
+}
+
+.blog {
+	border-radius: 0 0 5px 0;
+}
+
+/*____________________*/
+
+.authorization {
+	display: block;
+	width: 135px;
+	height: 35px;
+	border: 1px solid #ffffff;
+	border-radius: 5%; 
+	text-align: center;
+	float: right;
+	position: relative;
+	top: 15px;
+}
+
+.authorize {
+    color: #ffffff;
+    position: relative;
+    top: 8px;
+    font-weight: bold;
+}
+
+.authorization:hover {
+	background: #ffffff;
+	opacity: .8;
+}
+
+.authorization:hover .authorize {
+	color: #0ab09d;
+}
+
+.copy {
+	color: #ffffff;
+	position: absolute;
+	bottom: 10px;
+	left: 38%;
+}

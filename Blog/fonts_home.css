@@ -1,0 +1,66 @@
+@font-face {
+	font-family: FontAwesome;
+	src: url(Fonts/FontAwesome.ttf);
+	src: url(Fonts/FontAwesome.otf);
+}
+
+@font-face {
+	font-family: Roboto-Bold;
+	src: url(Fonts/roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+	font-family: Roboto-BoldItalic;
+	src: url(Fonts/roboto/Roboto-BoldItalic.ttf);
+}
+
+@font-face {
+	font-family: Roboto-Italic;
+	src: url(Fonts/roboto/Roboto-Italic.ttf);
+}
+
+@font-face {
+	font-family: Roboto-Light;
+	src: url(Fonts/roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+	font-family: Roboto-LightItalic;
+	src: url(Fonts/roboto/Roboto-LightItalic.ttf);
+}
+
+
+@font-face {
+	font-family: Roboto-Medium;
+	src: url(First project/Fonts/roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+	font-family: Roboto-MediumItalic;
+	src: url(Fonts/roboto/Roboto-MediumItalic.ttf);
+}
+
+@font-face {
+	font-family: Roboto-Regular;
+	src: url(Fonts/roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+	font-family: Fontawesome;
+	src: url(fontawesome.ttf);
+}
+
+@font-face {
+	font-family: BERNIERRegular-Regular;
+	src: url(Fonts/bernier/BERNIERRegular-Regular.otf) format("opentype");
+}
+
+@font-face {
+	font-family: ;
+	src: url(Fonts/roboto/Roboto-BoldItalic);
+}
+
+@font-face {
+	font-family: ;
+	src: url(Fonts/roboto/Roboto-BoldItalic);
+}

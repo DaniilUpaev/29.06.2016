@@ -1,0 +1,177 @@
+.content {
+	width: 1350px;
+	height: 690px;
+	background: #efeee9;
+}
+
+.left_content {
+    width: 670px;
+    float: left;
+}
+
+.about_header {
+	display: block;
+	position: absolute;
+	left: 35px;
+	top: -40px;
+}
+
+.about_header img {
+    width: 265px;
+	height: 100px;
+	opacity: 0.1;
+}
+
+.about_me_content {
+	width: 305px;
+	height: 640px;
+	float: left;
+}
+
+.about_me_content h2 {
+	position: relative;
+	top: -45px;
+	left: 20px;
+	font-family: BERNIERRegular-Regular;
+	font-size: 47px;
+	color: #373e42;
+}
+
+.title {
+    text-align: center;
+    position: relative;
+    top: -10px;
+}
+
+.my_photo_content {
+	width: 360px;
+	height: 320px;
+	float: left;
+}
+
+.photo_content {
+	width: 360px;
+	height: 320px;
+}
+
+.who_am_i_content {
+    width: 350px;
+    height: 310px;
+    position: relative;
+    text-align: center;
+    float: left;
+}
+
+.who_am_i_content p {
+	text-align: left;
+	color: #5a6b73;
+	font-size: 15px;
+	font-family: Roboto-Regular;
+}
+
+.title_2 {
+	font-family: BERNIERRegular-Regular;
+    font-size: 30px;
+    color: #455a64;
+}
+
+.right_content {
+	width: 669px;
+    float: right;
+    font-family: Roboto-Light;
+}
+
+.what_can_i_do {
+	display: block;
+	width: 235px;
+	height: 50px;
+	text-align: center;
+	font-family: BERNIERRegular-Regular;
+	color: #455a64;
+	font-size: 30px;
+    margin: auto;
+    position: relative;
+}
+
+.wcid_text {
+	display: block;
+    position: relative;
+    text-align: left;
+    top: 35px;
+    font-size: 15px;
+    font-family: Roboto-Regular;
+}
+
+.frontend_title {
+	display: block;
+	position: relative;
+	top: 85px;
+}
+
+.frontend_scores {
+	list-style: none;
+	display: block;
+	height: 90px;
+	position: relative;
+	padding-top: 75px;
+}
+
+.g-circles {
+    fill: none;
+    stroke-width: 16;
+ }
+
+ .sector {
+    stroke-dasharray: 283;
+    stroke-dashoffset: 161;
+    transition: all 1s;
+ }
+
+ .backend {
+ 	display: block;
+ 	width: 650px;
+ 	height: 100px;
+ 	position: relative;
+ }
+
+ .backend_scores {
+ 	list-style: none;
+ 	margin-top: 40px;
+ }
+
+.workflow_ul {
+	list-style: none;
+	position: relative;
+	top: 30px;
+}
+
+.workflow_ul li {
+    
+}
+
+.frontend_scores li,.backend_scores li,.workflow_ul li {
+	display: inline-block;
+	padding-right: 30px;
+}
+
+.backend_title {
+    top: 30px;
+ }
+
+ .workflow_title {
+    top: 30px;
+}
+
+.frontend_title,.backend_title,.workflow_title {
+	display: block;
+	margin-left: 45px;
+	font-size: 22px;
+    position: relative;
+    font-family: Roboto-Regular;
+}
+
+#map {
+	display: block;
+	width: 1350px;
+	height: 600px;
+}

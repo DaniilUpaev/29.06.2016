@@ -1,0 +1,324 @@
+.work_header {
+    display: block;
+    position: absolute;
+    left: 480px;
+}
+
+.work_header img {
+	width: 400px;
+    height: 120px;
+    opacity: 0.2;
+}
+
+.my_works {
+	width: 1350px;
+	height: 40px;
+	font-size: 47px;
+	color: #373e42;
+	text-align: center;
+	padding-top: 42px;
+	padding-bottom: 50px;
+	background: #faf8f0;
+	font-family: BERNIERRegular-Regular;
+}
+
+/*__________Левый контейер__________*/
+
+.left_container {
+	display: inline-block;
+	position: relative;
+	float: left;
+	width: 675px;
+	height: 563px;
+	background: #f0efe9;
+}
+
+.container {
+	width: 323px;
+	height: 200px;
+	position: absolute;
+	margin-left: 175px;
+	margin-top: 180px;
+}
+
+.web-page {
+	width: 210px;
+	height: 60px;
+	text-align: center;
+	margin-left: 50px;
+	color: #455a64;
+	font-family: BERNIERRegular-Regular;
+	font-size: 23px;
+}
+
+.technologies {
+	width: 315px;
+	height: 40px;
+	border-bottom: 2px solid #bbdbd4;
+	border-top: 2px solid #bbdbd4;
+	margin-top: 30px;
+	font-family: Roboto-Medium;
+}
+
+.technologies span {
+	position: relative;
+	top: 12px;
+}
+
+.technologies_text {
+	color: #38b9a6;
+	font-size: 14px;
+	position: relative;
+	margin-left: 82px;
+}
+
+.button {
+	width: 150px;
+	height: 34px;
+	background: #00bfa5;
+	color: #f3fbf9;
+	border-radius: 5%;
+	border: none;
+	margin-top: 30px;
+	position: relative;
+	margin-left: 80px;
+}
+
+.button span {
+	position: relative;
+	bottom: 5px;
+	text-decoration: none;
+	font-family: Roboto-Medium;
+	font-size: 12px;
+	padding-right: 15px;
+}
+
+.link {
+	position: relative;
+	margin-right: 10px;
+	width: 15px;
+	height: 20px;
+}
+
+/*__________Правый контейнер__________*/
+
+.right_container {
+	display: inline-block;
+	width: 673px;
+	height: 394px;
+	position: relative;
+	background: #f0efe9;
+}
+
+.right_container img {
+	width: 673px;
+	height: 394px;
+}
+
+.slider {
+	width: 337px;
+	height: 170px;
+	background: #f0efe9;
+	position: relative;
+	top: -5px;
+}
+
+.slider_1 {
+	display: inline-block;
+	float: left;
+	position: relative;
+}
+
+.slider_1 img {
+	width: 337px;
+	height: 170px;
+}
+
+.slider_2 {
+	display: inline-block;
+	float: left;
+	position: relative;
+}
+
+.slider_2 img {
+	width: 337px;
+	height: 170px;
+}
+
+/*__________ABOUT_ME__________*/
+.about_me {
+	display: block;
+	position: relative;
+
+}
+
+.about {
+	display: block;
+	position: relative;
+	left: 490px;
+}
+
+.about img {
+    width: 380px;
+	height: 155px;
+	opacity: .1;
+}
+
+.about span {
+	display: block;
+	font-size: 30px;
+	width: 270px;
+	text-align: center;
+    position: absolute;
+    left: 52px;
+    top: 203px;
+    font-family: BERNIERRegular-Regular;
+    font-size: 45px;
+    color: #373e42;
+}
+/*__________QUOTES__________*/
+
+.quotes {
+	width: 600px;
+	height: 220px;
+	/*border: 1px solid black;*/
+	position: relative;
+    left: 0;
+	right: 0;
+	top: 280px;
+	margin: auto;
+	font-family: Roboto-Light;
+}
+
+.quote {
+	width: 300px;
+	height: 220px;
+	float: left;
+}
+
+.first_quote {
+   display: block;
+   position: relative;
+}
+
+.second_quote {
+	display: block;
+    position: relative;
+}
+
+.first_quote p {
+	width: 282px;
+	height: 60px;
+	font-size: 12px;
+	position: absolute;
+	bottom: 40px;
+	color: #5e6f77;
+}
+
+.second_quote p {
+	width: 282px;
+	height: 60px;
+	font-size: 12px;
+	position: absolute;
+	bottom: 40px;
+	color: #5e6f77;
+}
+
+.quotes_photo {
+	display: block;
+}
+
+.quotes_photo img {
+    width: 58px;
+	height: 58px;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 0px;
+}
+
+.name_and_position {
+	list-style: none;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+}
+
+.name_and_position li {
+	font-size: 14px; 
+	color: #45bcab;
+	padding-top: 5px;
+}
+/*__________Form__________*/
+
+form {
+    position: relative;
+}
+
+input {
+    width: 255px;
+	height: 34px;
+	border-radius: 3%;
+	color: #afb1b2;
+	position: relative;
+	bottom: 5px;
+	left: 15px;
+}
+
+#message {
+	width: 255px;
+	height: 105px;
+}
+
+.form {
+	
+	width: 285px;
+	height: 328px;
+	display: block;
+	position: absolute;
+	left: 532px;
+	/*border: 1px solid black;*/
+	top: 532px;
+}
+
+.form_title {
+	font-size: 20px;
+	position: relative;
+	text-align: center;
+}
+
+.form_buttons {
+	display: block;
+	width: 286px;
+	list-style: none;
+	position: relative;
+	font-family: Roboto-Light;
+}
+
+.form_buttons li {
+    display: inline-block;
+    width: 142px;
+    background: #268b8b; 
+    float: left;
+}
+
+.form_buttons a li {
+    color: #f2faf8;
+    position: relative;
+    left: -40px;
+    top: 0px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.send {
+	border-radius: 0 0 0 5px;
+	 border-right: 2px solid #6dacae;
+}
+
+.clear {
+	border-radius: 0 0 5px 0;
+}
+
+.form_buttons li:hover {
+	background: #26bbaa;
+}

@@ -1,0 +1,121 @@
+.header {
+	width: 1350px;
+	height: 665px;
+	background: url(mountains.jpg);
+	background-size: 100%;
+}
+
+.portfolio {
+	opacity: 0.1;
+	position: absolute;
+	left: 260px;
+	top: 80px;
+}
+
+.portfolio img {
+    width: 860px;
+	height: 215px;
+}
+
+.social_networks {
+	position: absolute;
+    top: 25px;
+    left: 22px;
+}
+
+.networks {
+	list-style: none;
+	position: relative;
+}
+
+.networks li {
+    display: inline-block;
+    padding-right: 15px; 
+}
+
+.networks li:hover svg * {
+	fill: #FFFFFF;
+}
+
+.hamburger {
+	width: 30px;
+	height: 28px;
+	position: absolute;
+	right: 20px;
+	top: 22px;
+}
+
+.hamburger:hover svg * {
+    fill: #FFFFFF;
+}
+
+.card {
+	width: 165px;
+	height: 205px;
+	position: absolute;
+	margin: auto;
+	top: 85px;
+	left: 590px; 
+}
+
+.avatar {
+	width: 106px;
+	height: 106px;
+	margin: auto;
+	position: relative;
+	top: 15px;
+}
+
+.photo {
+	width: 106px;
+	height: 106px;
+	border-radius: 50%;
+}
+
+.blog_header {
+	display: block;
+	width: 765px;
+	height: 40px;
+	font-size: 30px;
+	padding-top: 5px;
+	margin-top: 30px;
+	position: relative;
+	color: #FFFFFF;
+	font-family: Roboto-Regular;
+}
+
+.description {
+	color: #FFFFFF;
+	font-size: 14px;
+	display: block;
+	width: 210px;
+	position: relative;
+	font-family: Roboto-Light;
+}
+
+.svg_left {
+	width: 600px;
+	height: 110px;
+	position: absolute;
+	top: 515px;
+}
+
+.svg_right {
+	width: 675px;
+	height: 110px;
+	position: absolute;
+	top: 515px;
+	right: 0;
+}
+
+.arrow_down {
+	display: block;
+	position: absolute;
+	top: 570px;
+	left: 668px;
+}
+
+.arrow_down img {
+	width: 20px;
+	height: 15px;
+}
